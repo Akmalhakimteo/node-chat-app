@@ -1,0 +1,5 @@
+const generateMessage = (text) => {
+    return {
+        
+    }
+}
